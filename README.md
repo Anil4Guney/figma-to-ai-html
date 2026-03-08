@@ -4,7 +4,7 @@ A powerful, multi-layered tool that bridges the gap between design and developme
 
 ##  Demo
 
-> **Note:** Watch the tool generate a pixel-perfect "Recurring Bills" component in seconds!
+> **Note:** Watch the tool generate a pixel-perfect  component in seconds!
 
 
 
