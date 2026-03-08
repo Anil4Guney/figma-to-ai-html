@@ -1,0 +1,30 @@
+{
+  "name": "ai-ui-nuxt",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@primevue/nuxt-module": "^4.5.4",
+    "@primevue/themes": "^4.5.4",
+    "axios": "^1.13.2",
+    "highlight.js": "^11.11.1",
+    "nuxt": "^4.2.2",
+    "primeicons": "^7.0.0",
+    "primevue": "^4.5.4",
+    "sass": "^1.97.1",
+    "uuid": "^13.0.0",
+    "vue": "^3.5.26",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "concurrently": "^9.2.1"
+  }
+}
