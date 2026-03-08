@@ -33,7 +33,7 @@ The magic happens in four simple steps:
 ##  Architecture
 
 This project is built on a robust three-part architecture to ensure scalability and speed:
-* **Frontend:** Built with Vue.js for a highly reactive, smooth user interface.
+* **Frontend:** Built with Nuxt.js (Vue Framework) for a highly reactive, smooth user interface.
 * **Backend Server:** Manages AI orchestration, request routing, and history management.
 * **MCP Server:** A dedicated server specifically built for precise Figma data extraction and structural processing.
 
