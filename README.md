@@ -6,7 +6,11 @@ A powerful, multi-layered tool that bridges the gap between design and developme
 
 > **Note:** Watch the tool generate a pixel-perfect "Recurring Bills" component in seconds!
 
-[Drag and drop your optimized .gif or .mp4 screen recording here]
+
+
+https://github.com/user-attachments/assets/c94300d8-eb4b-46bd-8fe0-8cf142934d0e
+
+
 
 ##  How It Works
 
